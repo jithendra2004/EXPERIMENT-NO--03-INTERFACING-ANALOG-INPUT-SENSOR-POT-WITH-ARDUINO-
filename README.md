@@ -95,9 +95,10 @@ void loop()
 ## Simulation output:
 
 
-![pot](https://user-images.githubusercontent.com/94226297/189469146-831ed07a-5112-4f09-837a-44e951a28d13.png)
+![1](https://user-images.githubusercontent.com/94226297/192278223-937ae7d4-7b2d-4a10-9e08-6bb923db11d2.png)
+![2](https://user-images.githubusercontent.com/94226297/192278242-93202e0e-ca0b-4bc9-b83d-fd54925669d6.png)
 
-
+![3](https://user-images.githubusercontent.com/94226297/192278268-eda9b4fd-6552-4256-ba35-1b6144f54f65.png)
 
 
 
